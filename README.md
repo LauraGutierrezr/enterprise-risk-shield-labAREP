@@ -94,6 +94,9 @@ To publish it, I used an AWS EC2 virtual machine running Ubuntu. These were the 
 
 ## Evidence
 
+**DuckDNS**
+<img width="1094" height="444" alt="image" src="https://github.com/user-attachments/assets/3d72d13f-86da-4e92-9f4b-bd15243c5ed7" />
+
 **Successful API call with an authenticated user**
 
 ![Authenticated call](images/api-call.png)
@@ -101,6 +104,16 @@ To publish it, I used an AWS EC2 virtual machine running Ubuntu. These were the 
 **Valid certificate on the public domain**
 
 ![HTTPS certificate](images/certificate.png)
+
+**Unexposed port**
+<img width="780" height="78" alt="image" src="https://github.com/user-attachments/assets/11c7aff6-7f3c-4bd7-9e93-683a4e7854d5" />
+
+**Reject request without token**
+<img width="955" height="293" alt="image" src="https://github.com/user-attachments/assets/67151d18-ed43-4ff6-a4eb-05eb5b0965b2" />
+
+**Upload Api Call**
+<img width="578" height="238" alt="image" src="https://github.com/user-attachments/assets/6715ecc7-ea4b-4df1-981b-640caa598a58" />
+
 
 ## Risk controls
 
